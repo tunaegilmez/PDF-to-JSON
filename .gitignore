@@ -19,7 +19,7 @@ jspm_packages/
 /out/
 /public/
 
-main.spec
+PDFtoJSON.spec
 
 # Environment files
 .env
@@ -51,3 +51,5 @@ Thumbs.db
 # Miscellaneous
 *.swp
 *.swo
+
+setup.py
